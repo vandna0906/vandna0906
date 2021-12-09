@@ -68,10 +68,16 @@
  -->
 <br/>
 
-<h3 align="center">Connect with me:</h3>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
 <p align="center">
-<a href="https://twitter.com/Vandana78467294" target="blank"><img align="center" src="https://raw.githubusercontent.com/vandna0906/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vandna" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vandna-tiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vandna0906/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vandna" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/vandna-tiwari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vandna-blue?style=flat-square&logo=linkedin"></a>
+<!-- <a href="https://www.instagram.com/vaani_tiwari/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shwetha-blue?style=flat-square&logo=instagram"></a> -->
+<a href="mailto:vandana100718@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vandana100718@gmail.com-blue?style=flat-square&logo=gmail"></a>
+ <a href="https://twitter.com/Vandana78467294" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-twitter-1.png" alt="vandna" height="30" width="40" /></a>
+</p>
 <!--   <a href="https://ramlala-yadav-portfolio.netlify.app/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-1603075-1359338.png" alt="rushikesh25" height="30" width="40" /></a> -->
 <!--  <p align="center">Call Me: 8839610384</p> -->
  <p align="center">Email:vandana100718@gmail.com</p>
