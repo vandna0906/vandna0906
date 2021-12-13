@@ -26,7 +26,7 @@
 
  📫 You can reach me at [chat](mailto:vandana100718@gmail.com)
  
- <a  href="https://gallant-hypatia-88cccb.netlify.app" target="_blank"> 🙋‍♂️ Visit My Portfolio</a>
+ <a  href="https://vandana-portfolio.netlify.app/" target="_blank"> 🙋‍♂️ Visit My Portfolio</a>
  
  
 
