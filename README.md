@@ -1,5 +1,5 @@
 
-<img align="center" src="https://media1.giphy.com/media/paTz7UZbPfTZFRYnnB/200w.webp?cid=ecf05e4769m5c87kl4zxpm8p5pqh4z7z27mauixfkbeizphz&rid=200w.webp&ct=s" alt="Vandna Tiwari" width="800px" height="600px" />
+<img align="center" src="https://media1.giphy.com/media/paTz7UZbPfTZFRYnnB/200w.webp?cid=ecf05e4769m5c87kl4zxpm8p5pqh4z7z27mauixfkbeizphz&rid=200w.webp&ct=s" alt="Vandna Tiwari" width="500px" height="300px" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Vandana, I try to write code 💻 and solve problems </h1>
 
 <h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects.I am willing to collaborate as a team player building better code.
@@ -26,11 +26,10 @@
 
  📫 You can reach me at [chat](mailto:vandana100718@gmail.com)
  
- 🙋‍♂️ Visit My Portfolio ...
+ <a  href="https://gallant-hypatia-88cccb.netlify.app" target="_blank"> 🙋‍♂️ Visit My Portfolio</a>
  
  
-<!-- <a  align="center" href="https://www.buymeacoffee.com/RamlalaYadav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
- -->
+
 
 <br/>
 <h3 align="center" margin="20px 0">Languages and Tools:</h3>
