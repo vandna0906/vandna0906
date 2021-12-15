@@ -1,6 +1,6 @@
 
 <img align="center" src="https://media1.giphy.com/media/paTz7UZbPfTZFRYnnB/200w.webp?cid=ecf05e4769m5c87kl4zxpm8p5pqh4z7z27mauixfkbeizphz&rid=200w.webp&ct=s" alt="Vandna Tiwari" width="500px" height="300px" />
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Vandana, I try to write code 💻 and solve problems </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Vandana, I try to write code 💻 and solve problems. </h1>
 
 <h3 align="center">An aspiring developer with hands-on experience in designing, developing, and maintaining projects.I am willing to collaborate as a team player building better code.
 </h3>
@@ -16,11 +16,11 @@
 </p>
 
 ## 🙋‍♂️ ### Here are some ideas to get you started:</br>
-🌱 I’m currently learning :  Full Stack Web Development
+🌱 I’m currently learning :  Full Stack Web Development.
 
-🤝 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
+🤝 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community
 
-💬 *Ask me about :* Data Structures and Algorithms, JavaScript, Technology, Troubleshooting, Psychology.**.
+💬 *Ask me about : Data Structures and Algorithms, JavaScript, Technology, Troubleshooting, Psychology.
 
 🥅 *2021 Goals :* Learning new things and contribute more  
 
@@ -45,8 +45,8 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vandna0906&&theme=highcontrast" alt="vandna0906" /></p>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ -->
 <br/>
 <br/>
 
