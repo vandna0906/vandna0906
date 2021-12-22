@@ -47,27 +47,17 @@
 
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  -->
-<br/>
-<br/>
-
-<!-- <a href="https://github.com/Ramlala-Yadav-Git/github-readme-activity-graph"><img alt="Ramlala Yadav's Graph" src="https://activity-graph.herokuapp.com/graph?username=Ramlala-Yadav-Git&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
- -->
-<br/>
-
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <a href="https://www.linkedin.com/in/vandna-tiwari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vandna-blue?style=flat-square&logo=linkedin"></a>
-<!-- <a href="https://www.instagram.com/vaani_tiwari/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shwetha-blue?style=flat-square&logo=instagram"></a> -->
 <a href="mailto:vandana100718@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vandana100718@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<!--  <a href="https://twitter.com/Vandana78467294" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-twitter-1.png" alt="vandna" height="30" width="40" /></a> -->
-</p>
-
- <p align="center">Email:vandana100718@gmail.com</p>
 
 </p>
+
+
+
 
 
 <!-- <div align="center">
